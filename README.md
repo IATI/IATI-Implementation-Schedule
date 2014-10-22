@@ -1,5 +1,5 @@
-IATI-Implementation-Schedule
-============================
+IATI Implementation Schedules
+=============================
 
 This repository is dedicated to managing and hosting versions of the IATI Implementation Schedules
 
